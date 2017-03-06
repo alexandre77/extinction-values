@@ -22,4 +22,4 @@ Option:
     wbbox
 
 Example:
-    $ ./extinction desc images/tomatoes.pgm images/result.pgm 300
+    $ ./extinction desc tomatoes.pgm result.pgm 300
